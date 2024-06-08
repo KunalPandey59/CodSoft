@@ -1,7 +1,9 @@
+import random
+import string
 from tkinter import *
 from tkinter.ttk import Combobox
 from tkinter import messagebox
-import string,random
+
 
 root=Tk()
 root.geometry("500x500")
